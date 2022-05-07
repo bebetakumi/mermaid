@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
 
-GAFA -- Meta --> GAFAM --> GAMAM --> GAMMA --> AAMMA --> MAMAA
+GAFA -- FaceBook->Meta --> GAFAM --> GAMAM --> GAMMA --> AAMMA --> MAMAA
 
 ```
