@@ -1,9 +1,6 @@
 ```mermaid
 flowchart TD
 
-GAFA --> GAFAM --> GAMAM --> GAMMA --> AAMMA --> MAMAA
-
-Note right of GAFAM: Text in note
-
+GAFA -- id[FaceBook -> Meta] --> GAFAM --> GAMAM --> GAMMA --> AAMMA --> MAMAA
 
 ```
