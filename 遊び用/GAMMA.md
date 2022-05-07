@@ -3,11 +3,7 @@ flowchart TD
 
 GAFA --> GAFAM --> GAMAM --> GAMMA --> AAMMA --> MAMAA!!!
 
-sequenceDiagram
-
-participant John
-
-Note right of John: Text in note
+Note right of GAFAM: Text in note
 
 
 ```
